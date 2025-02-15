@@ -1,2 +1,2 @@
-# quick-shooter
-A quick time-killing shoot'em up made with Javascript and PixiJS
+# Project Details
+An easy and quick to play horizontal shoot'em up (SHMUP) to help learn Javascript and using PixiJS.
